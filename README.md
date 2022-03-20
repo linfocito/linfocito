@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hello!
+
+My name is Eduardo Lopes. I'm an Emergency and ICU pediatrician, seeking a career change to computer programming. 
+
 
 <!--
 **linfocito/linfocito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:Prerequisites
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
